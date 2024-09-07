@@ -15,6 +15,7 @@ The project directory contains the following files and folders:
 - `heart-disease.csv`: CSV file containing heart disease data.
 - `Introduction to pandas.ipynb`: Jupyter notebook introducing pandas.
 - `Introduction to numpy.ipynb`: Jupyter notebook introducing numpy.
+- `Introduction to Matplotlib.ipynb`: Jupyter notebook introducing matplotlib.
 
 ## Setting up the Project
 

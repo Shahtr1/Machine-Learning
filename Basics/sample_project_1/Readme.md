@@ -13,6 +13,7 @@ The project directory contains the following files and folders:
 - `example-notebook.ipynb`: Example Jupyter notebook.
 - `exported-car-sales.csv`: CSV file containing exported car sales data.
 - `heart-disease.csv`: CSV file containing heart disease data.
+- `nut-butter-sales.csv`: CSV file containing weekly sales data for understanding dot product in numpy arrays.
 - `Introduction to pandas.ipynb`: Jupyter notebook introducing pandas.
 - `Introduction to numpy.ipynb`: Jupyter notebook introducing numpy.
 - `Introduction to Matplotlib.ipynb`: Jupyter notebook introducing matplotlib.

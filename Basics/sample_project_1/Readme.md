@@ -33,7 +33,7 @@ To set up the project, follow these steps:
    Open a Miniconda prompt and navigate to the project location. Then type:
 
    ```sh
-   conda env create --file .\environment.yml --prefix ./env
+   conda env create --file .\environment.yaml --prefix ./env
    ```
 
 3. Activate the conda environment:

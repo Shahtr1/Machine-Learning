@@ -18,3 +18,8 @@ draw.paths = (context, paths, color = "black") => {
     draw.path(context, path, color);
   }
 };
+
+// if condition to make imports in html work
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = draw;
+}
